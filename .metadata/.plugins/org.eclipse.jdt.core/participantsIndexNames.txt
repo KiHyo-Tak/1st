@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+D:\java\source\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1928587349.index
+\Fruits\src
+D:\java\source\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2126781831.index
+\Fruits\src
+D:\java\source\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3992469967.index
+\Fruits\src
+D:\java\source\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3961403454.index
+\Fruits\src
+D:\java\source\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3314460089.index
+\Fruits\src
+D:\java\source\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\65241961.index
+\Fruits\src
+D:\java\source\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\336605177.index
+\Fruits\src
+D:\java\source\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3552290136.index
+\Fruits\src
